@@ -19,6 +19,5 @@ Python foi utilizado para manipulação de dados e desenvolvimento das análises
 
 --- 
 
-# Análise Geral
+![Produto mais vendido](MaisVendidoUltimos_3anos.png)
 
-Nos últimos três anos, o produto mais vendido foi Books, com 43.585 unidades, enquanto a categoria mais vendida no geral foi Clothing, e a menos vendida Electronics. O produto mais caro e também o mais barato estão em Electronics, com preços de R$500 e R$10, mostrando bastante variação. O melhor NPS ficou na categoria Home, e o pior na Clothing, então dá pra ver onde os clientes estão mais satisfeitos ou não. Olhando pro público, as faixas mais fortes são de 25 a 55 anos, homens e mulheres, mas também tem muita gente acima de 55 comprando. Quanto aos canais, Instagram Campaign funcionou melhor pra todas as categorias. No geral, esses dados ajudam a entender o que vende mais, o que os clientes gostam e onde dá pra melhorar, de forma rápida e prática.
