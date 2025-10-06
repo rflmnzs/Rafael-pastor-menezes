@@ -23,22 +23,22 @@ Python foi utilizado para manipulação de dados e desenvolvimento das análises
 # Análise e conclusão dos gráficos
 ---
 Os produtos da categoria Books, foram os mais vendidos nos últimos 3 anos, o que mostra que é uma categoria boa e muito procurada pelos clientes.
-![Produto mais vendido](Captura de telas/MaisVendidoUltimos_3anos.png)
+![Produto mais vendido](img/MaisVendidoUltimos_3anos.png)
 ---
 Embora todas as categorias tenham produtos com preços elevados, a categoria Eletronics se destaca, levando em consideração também que esta é a categoria que atrai pessoas dispostas a gastar mais
-![Produto mais caro](Captura de telas/PrecoMax_pCategoria.png)
+![Produto mais caro](img/PrecoMax_pCategoria.png)
 ---
 Com base nos gráficos, também é possivel concluir que os NPS variam bastante em todas as categorias.
-![NPS por categoria](Captura de telas/NPS_pCategoria.png)
+![NPS por categoria](img/NPS_pCategoria.png)
 ---
 Em quantidade, conseguimos ver que a categoria home lidera, vendendo em quantidades maiores se comparados com outras categorias, apesar de também terem bons números
-![Qtd vendas por categoria](Captura de telas/QtdVendas_pCategoria.png)
+![Qtd vendas por categoria](img/QtdVendas_pCategoria.png)
 ---
 O canal mais usado é Instagram Campaign, apesar de estar no topo, os outros canais de venda não ficam muito para trás, exceto pelo Organic Search, que tem números menores se comparado com os outros
-![Canais mais usados](Captura de telas/CanaisMais_Usados.png)
+![Canais mais usados](img/CanaisMais_Usados.png)
 ---
 A quantidade de vendas por canais segue o mesmo padrão do canal mais usado, sendo, Instagram campaign o topo.
-![Qtd vendas por canal](Captura de telas/Qtd_pCanal.png)
+![Qtd vendas por canal](img/Qtd_pCanal.png)
 ---
 
 *Agradeço pela oportunidade, pela experiência e pelo aprendizado neste desafio*
