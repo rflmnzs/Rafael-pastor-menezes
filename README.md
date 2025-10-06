@@ -19,5 +19,8 @@ Python foi utilizado para manipulação de dados e desenvolvimento das análises
 
 --- 
 
-![Produto mais vendido](MaisVendidoUltimos_3anos.png)
+![Produto mais vendido](img/MaisVendidoUltimos_3anos.png)
+![Produto mais caro](img/PrecoMax_pCategoria.png)
+...
+
 
